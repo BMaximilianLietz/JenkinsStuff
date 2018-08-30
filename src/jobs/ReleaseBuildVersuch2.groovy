@@ -525,7 +525,7 @@ lscm list flowtargets "${REPO_NAME}" -r jenkins
 		
 		
 		// static developers list
-		//bernhard.hirsch@accenture.com, $DEFAULT_RECIPIENTS, ninad.joshi@accenture.com, mariya.jagan.v.nadar@accenture.com, prashant.hariharan@accenture.com, sharon.eric.vaz@accenture.com, s.arvind.sawant@accenture.com, pranay.suresh.dhoke@accenture.com, sanjeet.pattnaik@accenture.com, amol.redekar@accenture.com, jammula.siva.sagar@accenture.com, sadiq.nabi@accenture.com, devina.swain@accenture.com, a.anand.devadiga@accenture.com, pawel.barowski.external@atos.net, maciej.mrozek.external@atos.net, dominik.wilczynski.external@atos.net, johannes.seib@atos.net, sebastian.gruchot@atos.net, wiktoria.mandok@atos.net, barbara.kozlowska@atos.net, pawel.frackiewicz@atos.net, remigiusz.dworczak.external@atos.net, przemyslaw.przetocki@atos.net, johannes.meier@atos.net, anna.litwin-ratajczak@atos.net, maciej.falkowski@atos.net, tomasz.szypowski@atos.net, piotr.golebiowski@atos.net
+		//
 		
 		
 		def emails_all = [maximilian.lietz.ml@gmail.com]
